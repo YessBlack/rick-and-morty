@@ -1,19 +1,4 @@
-*, *::after,*::before {
-  margin: 0;
-  padding: 0;
-  box-sizing: border-box;
-}
-body {
-  font-family: 'Roboto', sans-serif;
-
-}
-.App {
-  background-color: #272b33;
-  display: flex;
-  flex-wrap: wrap;
-  align-items: center;
-  justify-content: center;
-}
+/* ----------- Card --------- */
 .card {
   background-color: #3c3e44;
   display: flex;
